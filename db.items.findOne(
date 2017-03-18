@@ -1,0 +1,5 @@
+db.items.findOne(
+   {
+     $eq: ["_id" : 8 ]
+   }
+)
